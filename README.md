@@ -10,6 +10,7 @@ The 2019 team from Wayne Hills High School consisted of:
 5. Jordan Wang
 
 Otherwise known as Team #12629.
+
 Footage of our experience of the challenge can be found at https://youtu.be/2pOf-VHYjbg.
 
 ## Disclaimer
