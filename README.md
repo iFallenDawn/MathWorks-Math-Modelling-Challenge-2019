@@ -8,6 +8,7 @@ The 2019 team from Wayne Hills High School consisted of:
 3. Jacob Park
 4. Jordan Leong
 5. Jordan Wang
+
 Otherwise known as Team #12629.
 Footage of our experience of the challenge can be found at https://youtu.be/2pOf-VHYjbg.
 
@@ -27,6 +28,9 @@ Quickly adapted from https://m3challenge.siam.org/archives/2019/problem.
 3. **Ripples**—Develop a robust metric for the impact of substance use. Take into account both financial and non-financial factors, and use your metric to rank the substances mentioned in question #2. 
 
 **Your submission should include a one-page executive summary with your findings, followed by your solution paper—for a maximum of 20 pages. If you choose to write code as part of your work to be eligible for the technical computing prize, please include it as an appendix. Cite your sources, including those in the provided data files if you use them. Any code appendix or reference page(s) will not count toward your 20-page limit.**
+
+## Our Response
+Download the pdf named "Moody's 3.2.19" found above.
 
 ## Conclusions
 We started an hour or two early which would have become really helpful towards the end when we were scrambling to put everything together, but overall it was a good first-time experience working and bonding together to provide answers for the prompts.
